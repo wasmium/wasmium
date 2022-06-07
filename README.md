@@ -4,6 +4,8 @@ The Wasmium Network is a micro-banking platform that enables communities to crea
 
 In most developing countries, micro-banks account for billions of dollars in savings and yet the are vulnerable to mismanagement and theft of funds. The litepaper outlines how the Wasmium Network solves a lot of these problems through decentralized peer-to-peer fund management.
 
+#### LITEPAPER - https://github.com/wasmium/wasmium/blob/main/WASMIUM-litepaper.pdf
+
 ##### Source Code
 
 - **Poseidon** - A minimal dependency Solana client that is fast to compile, has no bloat and is cache friendly. Source at: https://github.com/wasmium/Poseidon
